@@ -1,4 +1,4 @@
-# Ƭɦɛ Ʀʊֆȶօռօʍɨƈօռ (21天精通Rust语言编程)
+# Ƭɦɛ Ʀʊֆȶօռօʍɨƈօռ
 
 > **NOTE: This is a Wizard Unicode version of [The Rustonomicon](https://github.com/rust-lang/nomicon) based on [wizard-text-generator](https://github.com/xyt-dev/wizard-text-generator)**  
 
